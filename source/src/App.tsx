@@ -14,7 +14,7 @@ function App() {
 
       
       
-      <Particles className="particles-js" style={{ zIndex: 1 }} options={{
+      <Particles style={{ zIndex: 1 }} options={{
         background: {
           color: {
             value: "#4a4a4a",
