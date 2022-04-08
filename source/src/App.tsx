@@ -48,7 +48,7 @@ function App() {
               enable: true,
               area: 800,
             },
-            value: 160,
+            value: 140,
           },
           opacity: {
             random: true,
